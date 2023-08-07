@@ -51,7 +51,7 @@
 .content {
   display: flex;
   align-items: flex-end;
-  padding: 75px;
+  padding: 75px 60px;
   font-family: 'Epilogue';
   font-size: 40px;
   content: 'Votre Entreprise';

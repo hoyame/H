@@ -25,9 +25,9 @@ const Home = () => {
     
       <div className="content">
         <div>
-          <p id="animation-one" style={{fontSize: 25, marginBottom: 20}}> </p>
-          <p id="animation-two" style={{marginBottom: 20, lineHeight: 1.2, width: '45%'}}> </p>
-          <p id="animation-three" style={{fontSize: 20, lineHeight: 1.3, width: '35%'}}> </p>
+          <p id="animation-one" style={{fontSize: "1vw", marginBottom: 20}}> </p>
+          <p id="animation-two" style={{fontSize: "2vw", marginBottom: 20, lineHeight: 1.2, width: '45%'}}> </p>
+          <p id="animation-three" style={{fontSize: "1vw", lineHeight: 1.3, width: '35%'}}> </p>
         </div>
       </div>
     </div>
